@@ -2,8 +2,8 @@ from slackclient import SlackClient
 import json
 import os
 
-CHANNEL = 'musicreactions'
-USERNAME = 'Discobear'
+CHANNEL = 'nowplaying'
+USERNAME = 'tunelabs'
 ICON = ":guitar:"
 
 class Bot(object):

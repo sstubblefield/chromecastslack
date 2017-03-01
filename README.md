@@ -1,3 +1,9 @@
+# 64labs Customizations
+Follow the directions below, then use the following to run the script:
+```
+SLACKBOT_TOKEN=xoxb-143876558689-ia9RusnwsVoNSvLkY064c78O python3.5 listener.py
+```
+
 # chromecastslack
 Report your playing songs to slack!
 
@@ -8,7 +14,7 @@ I tested this script with Python 3.5. Other versions (3.0 and up) should work, b
 ## Setup
 1. Have a working Chromecast in your LAN, playing music from your favorite source (Spotify, Soundcloud, ...).
 1. [Create a bot user](https://my.slack.com/services/new/bot) in your Slack account.
-1. Install *chromecastslack* on any computer in your LAN. 
+1. Install *chromecastslack* on any computer in your LAN.
 1. Use the API token (*xoxb-a-b*) to execute the bot.
 
 ## Installing
